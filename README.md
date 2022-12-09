@@ -1,5 +1,4 @@
 # Edge-TSS
----
 
 The **official** source code for the project _**"An Intelligent System For 24/7 
 Real-Time Traffic Surveillance on Edge Devices"**_.
